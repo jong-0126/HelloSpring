@@ -7,3 +7,5 @@ create table member
 
 insert into member(name) values('spring');
 insert into member(name) values('spring2');
+
+delete form member;
